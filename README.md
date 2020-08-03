@@ -1,4 +1,4 @@
-# DD2424---Deep-Learning
+# DD2424 - Deep-Learning
 Folders including the four assignments for DD2424 at KTH written in python.
 
 The python files include sub-parts that can be commented and uncommented so as to run individual sub-assignments or everything in one go, as desired.
